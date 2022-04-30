@@ -1,0 +1,61 @@
+    body {
+          background-color: rgb(255, 255, 255);
+        }
+    
+        h1 {
+          color: rgb(0, 0, 0);
+          text-decoration: underline;
+        }
+    
+        p, li {
+          font-size: 24px;
+          font-family:'Times New Roman', Times, serif
+        }
+        
+        .styledFont {
+          font-size: 22px; 
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          text-decoration: dotted;
+          font-style: italic;
+        }
+
+        #styledImage {
+          border: 5px groove blue;
+        }
+        
+        .centered {
+          text-align: center;
+        }
+
+        .bold {
+          font-weight: bold;
+        }
+
+        .bigtext {
+          font-size: 48px;
+        }
+
+        .smalltext {
+          font-size: 12px;
+        }
+
+        #orangetext {
+          color: orange;
+        }
+
+        #redtext {
+          color: rgb(230, 15, 15);
+        }
+    
+        #bluetext {
+          color: rgb(45, 158, 252);
+        }
+    
+        #greentext {
+          color: rgb(12, 192, 6);
+        }
+      
+        .cursive {
+          font-family: cursive
+        }
+    
